@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{F08A39D2-BB05-4152-981C-09A5AE00214E}|Default">
+  <MonoDevelop.Ide.ItemProperties.code__challenge PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="code_challenge/Challenges/ScrabbleScoreCalculator.cs">
+    <Files>
+      <File FileName="code_challenge/Challenges/Calculator.cs" Line="11" Column="15" />
+      <File FileName="code_challenge/Tests/CalculatorTests.cs" Line="21" Column="50" />
+      <File FileName="code_challenge/Challenges/DnaParsing.cs" Line="31" Column="82" />
+      <File FileName="code_challenge/Challenges/ScrabbleScoreCalculator.cs" Line="19" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="code_challenge" expanded="True">
+            <Node name="code_challenge" expanded="True">
+              <Node name="Challenges" expanded="True">
+                <Node name="ScrabbleScoreCalculator.cs" selected="True" />
+              </Node>
+              <Node name="Tests" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
